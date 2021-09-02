@@ -1,7 +1,0 @@
-Name: Md Abul Hasnat
-Age: 37
-Gender: Male
-DOB: 12/01/1983
-Email: hasnat.itech@gmail.com
-Phone: +1 720 9191143
-Address: 10700 E Dartmouth ave, Apt D208, Denver CO 80014
